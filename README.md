@@ -1,35 +1,26 @@
-# next-js-crud-mongodb
-### Tecnologias Utilizadas:
+# Tech stack:
 
 - Next.Js [Next.js](https://nextjs.org/)
 - Chakra UI [Chakra-ui](https://chakra-ui.com/)
 - Mongoose [Mongoose](https://mongoosejs.com/)
 - Axios [Axios](https://axios-http.com/docs/intro)
 
-<p>Para execução do projeto, você precisará inicialmente ter em sua máquina um dos gerenciadores de pacote abaixo: </p>
+<p>Running</p>
 
 - [NPM](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/lang/en/) (recomendado)
 
 <p>
 
-#### 1. Clone o projeto
+#### 1. First
 
 ```
-git clone https://github.com/edurib17/next-js-crud-mongodb.git
-cd next-js-crud-mongodb
-```
-
-#### 2. Atualize as dependencias
+git clone
+cd nextjs-crud-mongodb-serversideprops
 
 ```
-yarn
-npm install
-```
 
-#### 3. Execute o projeto
+#### 2. Run
 
 ```
-yarn dev
-npm dev
+npm dev or npm run buid/start
 ```
